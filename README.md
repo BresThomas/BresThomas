@@ -1,3 +1,4 @@
+<body style="backgound-color: red;>
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate developer</h3>
 
@@ -11,3 +12,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bresthomas&show_icons=true&locale=en" alt="bresthomas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bresthomas&" alt="bresthomas" /></p>
+</body>
