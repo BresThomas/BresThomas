@@ -1,4 +1,4 @@
-<body style="backgound-color: red;>
+<body style="backgound-color: 'red';">
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate developer</h3>
 
