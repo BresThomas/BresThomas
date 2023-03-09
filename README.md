@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate developer</h3>
 
-<img src="https://static.vecteezy.com/system/resources/previews/004/491/062/large_2x/programmer-working-concept-for-web-banner-man-work-with-code-and-programming-at-computer-creates-software-modern-person-scene-illustration-in-flat-cartoon-design-with-people-characters-vector.jpg" width="1000px" height="500px">
-
-
 <p>Étudiant à l'université Nice Cote d'Azur en BUT informatique. Voici mon profil.</p>
 
 <h3 align="left">Languages and Tools:</h3>
