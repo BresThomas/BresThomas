@@ -3,7 +3,7 @@
 
 ### About Me
 
-I am currently studying Computer Science at **IUT Nice Côte d'Azur** and hold a Baccalaureate in Mathematics and Computer Science from **Jean Moulin High School** in Draguignan.
+👨‍💻 I am currently studying Computer Science at **IUT Nice Côte d'Azur** and hold a Baccalaureate in Mathematics and Computer Science.
 
 ### Details
 
