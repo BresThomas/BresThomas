@@ -11,7 +11,7 @@
 ### Details
 
 - 🌍 **Location:** Nice
-- 🖥️ **Portfolio:** [tiles.bio/bresthomas](https://tiles.bio/bresthomas)
+- 🖥️ **Portfolio:** [thomasbres.com](https://thomasbres.com)
 - ✉️ **Contact:** [brestho@gmail.com](mailto:brestho@gmail.com)
 
 ### Projects
