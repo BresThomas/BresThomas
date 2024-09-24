@@ -4,10 +4,6 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A passionate developer</h3>
 
-### About Me
-
-👨‍💻 I am currently studying Computer Science at **IUT Nice Côte d'Azur** and hold a Baccalaureate in Mathematics and Computer Science.
-
 ### Details
 
 - 🌍 **Location:** Nice
