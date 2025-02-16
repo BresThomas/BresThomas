@@ -5,6 +5,7 @@
 
 - 🌍 **Location:** Nice
 - 🖥️ **Portfolio:** [thomasbres.com](https://thomasbres.com)
+- 🌳 **LinkTree:** [linktr.ee/brestho](https://linktr.ee/brestho)
 - ✉️ **Contact:** [brestho@gmail.com](mailto:brestho@gmail.com)
 
 ### Projects
