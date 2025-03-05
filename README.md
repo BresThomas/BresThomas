@@ -17,7 +17,7 @@
 
 ### Opportunities
 
-- 🤝 **Open to:** Freelance or Internship
+- 🤝 **Open to:** Freelance
 
 ### Interests
 
